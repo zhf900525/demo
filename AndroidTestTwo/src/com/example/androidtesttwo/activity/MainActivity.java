@@ -52,6 +52,10 @@ public class MainActivity extends Activity implements OnClickListener {
             it = new Intent(MainActivity.this, ProgressBarMainActivity.class);
             break;
 
+
+
+
+
         default:
             break;
         }
